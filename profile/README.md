@@ -2,11 +2,8 @@
   <img src="https://raw.githubusercontent.com/AlonaBot/AlonaBot/main/docs/assets/mascot.png" alt="AlonaBot 吉祥物" width="180">
 </p>
 
-<h1 align="center">Hello AlonaBot 👋</h1>
-
 <p align="center">
   轻量级、跨平台的 Go 聊天机器人框架。<br>
-  按需安装组件，把机器人搭成你需要的样子。
 </p>
 
 <p align="center">
